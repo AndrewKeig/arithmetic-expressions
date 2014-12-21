@@ -3,7 +3,7 @@ arithmetic-expressions
 
 arithmetic-expressions is a simple, fluent interface but building arithmetic expressions.
 
-[![build status](https://travis-ci.org/andrewkeig/arithmetic-expressions.svg)](http://travis-ci.org/andrewkeig/arithmetic-expressions)
+[![build status](https://travis-ci.org/AndrewKeig/arithmetic-expressions.svg)](http://travis-ci.org/AndrewKeig/arithmetic-expressions)
 
 #install
 
